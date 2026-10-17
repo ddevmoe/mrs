@@ -1,0 +1,12 @@
+# IDE related files
+.vscode/
+.idea/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
